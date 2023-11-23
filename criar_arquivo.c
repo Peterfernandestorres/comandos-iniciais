@@ -9,7 +9,7 @@ int main () {
  fprintf (arq,"hoje é Quarta-Feira");
  fclose (arq);
  
-
+ 
  printf ("O Arquivo foi Criado....\n");
 
 
